@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chat-nav-bar{
+    border: 2px red solid;
+}
+.icon-img{
+    border: 2px solid blue;
+}
